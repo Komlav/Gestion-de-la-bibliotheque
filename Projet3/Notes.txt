@@ -1,0 +1,40 @@
+- OUVRAGE
+    - CodeOuvrage
+    - Titre
+    - Date d'édition
+
+- AUTEUR
+    - CodeAuteur
+    - Nom
+    - Prénom
+    - Profession
+
+- EXEMPLAIRE
+    - CodeExemplaire
+    - Date d'enregistrement
+
+-PRET 
+    - Code pret
+    - Date
+    - DateRetour
+    - DateRéel
+    - Exemplaire
+    - Adhérent
+
+A FAIRE
+    RB
+    - Lister les ouvrages
+    - Lister les rayons
+    - Lister les auteurs
+    - Lister les oeuvres disponible
+    - Lister les rayons des exemplaires
+    - Lister exemplaires indisponible (pret ou détérioré)
+
+    Adhérent
+    - Lister ses demandes
+    - Lister prêts encours ou retourner
+    
+    RP 
+    - Mister les prets en cours
+    - Lister les prets d'un Adhérent
+    - Lister les prets des adhérents retardataires
